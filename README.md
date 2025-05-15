@@ -14,7 +14,10 @@ Full account takeover for logged-in users, bypassing password verification durin
 Video: `demo/proof.mov`
 
 ## 📄 Responsible Disclosure
-See `report/writeup/report.pdf` for the disclosure and response timeline.
+
+See `reportMeta&writeup/writeup-report.pdf` for the disclosure and response timeline.
+
+Meta responded to the report with a message that, to this day, remains unclear. The wording even seemed to suggest they were not planning to fix the issue — despite its critical nature. However, the vulnerability was silently patched at a later time, indicating that they likely did address it eventually.
 
 ## 👨‍💻 Author
 Javier González Casares
